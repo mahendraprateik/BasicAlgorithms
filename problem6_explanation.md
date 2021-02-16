@@ -1,4 +1,4 @@
-# Problem 3: Min Max element
+# Problem 6: Min Max element
 
 ## Method and Data Structures:
 We do a single traversal and assign the first element as the min and the max. As we loop through, we make comparisons in linear time to update the min and max values.
